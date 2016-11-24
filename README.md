@@ -1,2 +1,2 @@
 # hello-world
-/*it ll began with this one*/
+//it all began with this one
